@@ -75,5 +75,4 @@ run this, you're doing it wrong, see the Token budget section in `SKILL.md`.
 
 ## License
 
-No license file yet, this is a fresh export. Treat it as source-available until one is
-added.
+Apache License 2.0, see [LICENSE](LICENSE). Copyright 2026 Schen Long.
